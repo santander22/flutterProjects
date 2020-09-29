@@ -62,7 +62,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   final _buttonSize = 50.0;
-  double _counterSize = 25.0;
+  double _counterSize = 24.0;
 
   @override
   Widget build(BuildContext context) {
